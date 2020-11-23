@@ -1,4 +1,4 @@
-# codeigniter4_Simple_Admin
+# codeigniter4 Multi Admin with login
 Access control logic for two user types: administrators and super administrators.
 Multi-user login with permissions
 
@@ -13,7 +13,7 @@ Multi-user login with permissions
  database.default.password = root
  database.default.DBDriver = MySQLi
  app.baseURL = 'http://talentedge.test'
- 
+
 3.not added vendor folder in code run => composer update
 
 4.open application url in browser
