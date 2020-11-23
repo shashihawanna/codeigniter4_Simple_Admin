@@ -1,6 +1,11 @@
-# codeigniter4 Multi Admin with login
-Access control logic for two user types: administrators and super administrators.
-Multi-user login with permissions
+# Codeigniter 4 Multi Admin with login
+1.Access control logic for two user types: administrators and super administrators.
+
+2.Multi-user login with permissions in codeigniter 4
+
+3.Login in codeigniter 4
+
+4.Filters in codeigniter 4
 
 # How To Run
 
