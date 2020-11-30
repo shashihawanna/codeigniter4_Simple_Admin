@@ -12,6 +12,7 @@
 1.Added database file in root/db => talentedge.sql
 
 2.changes  database connection and app path in .env file
+
  database.default.hostname = localhost
  database.default.database = talentedge
  database.default.username = root
