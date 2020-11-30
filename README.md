@@ -17,6 +17,7 @@
  database.default.username = root
  database.default.password = root
  database.default.DBDriver = MySQLi
+ 
  app.baseURL = 'http://talentedge.test'
 
 3.not added vendor folder in code run => composer update
