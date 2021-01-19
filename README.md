@@ -13,13 +13,15 @@
 
 2.changes  database connection and app path in .env file
 
- 1.database.default.hostname = localhost
- 2.database.default.database = talentedge
- 3.database.default.username = root
- 4.database.default.password = root
- 5.database.default.DBDriver = MySQLi
- 6.app.baseURL = 'http://talentedge.test'
+  1.database.default.hostname = localhost
+  2.database.default.database = talentedge
+  3.database.default.username = root
+  4.database.default.password = root
+  5.database.default.DBDriver = MySQLi
+  6.app.baseURL = 'http://talentedge.test'
 
 3.not added vendor folder in code run => composer update
 
 4.open application url in browser
+
+5.User Details email=> testadmin@yopmail.com Password => 12345678
